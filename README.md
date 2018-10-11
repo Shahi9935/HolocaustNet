@@ -14,5 +14,4 @@ The working of this app goes as follows: -
   <li> One can also know the last known location of their loved ones so it would be easier to track them.</li>
   <li> The app will also have a map which the users can access at the time of disaster to see all nearby services, rescue camps, relief camps etc.</li>
   <li> Those willing to provide food/shelter etc. services to the people suffered can show their location on map and affected people can reach them for help.</li>
-  <li> One can also know the last known location of their loved ones.</li>
   </ol>
